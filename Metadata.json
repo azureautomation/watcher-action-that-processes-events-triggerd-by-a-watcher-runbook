@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 814,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/watcher-action-that-processes-events-triggerd-by-a-watcher-runbook/master/Process-NewFile.ps1",
+    "DownloadCount": 2493,
+    "Id": "Watcher-action-that-b4ff7cdf",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 155,
+    "RaterCount": 2,
+    "Rating": 4.5,
+    "ReleaseDate": "2017-11-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This sample automation runbook is designed to be used in a watcher task that takes action on data passed in from a watcher runbook. It is required to have a parameter called $EVENTDATA in watcher action runbooks to receive information from the watcher runbook.",
+    "Title": "Watcher action that processes events triggerd by a watcher runbook",
+    "UpdatedDate": "2017-11-17T00:00:00",
+    "Url": "https://github.com/azureautomation/watcher-action-that-processes-events-triggerd-by-a-watcher-runbook",
+    "UserTags": "Runbook, Automation Watcher"
+}
